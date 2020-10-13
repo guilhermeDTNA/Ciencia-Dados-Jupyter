@@ -1,4 +1,4 @@
-# Ciencia de Dados com Jupyter
+# Ciência de Dados com Jupyter
 Trabalho desenvolvido na disciplina de Tópicos Especiais em Sistemas de Informação I
 
 Para executá-lo, voc necessita ter a versão 3.6 do Python instalado, juntamente com o Jupyter, o qual pode ser instalado pelo seguinte comando:
